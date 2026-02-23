@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ajay (Budida Ajay)
+# 👋 Hi, I'm Ajay
 
 **B.Tech Computer Science — IIITDM Jabalpur (Pre-final Year)**  
 Backend Engineering • Distributed Systems • Open-source Contributor (Apache)
