@@ -17,7 +17,7 @@ Backend Engineering • Distributed Systems • Open-source Contributor (Apache)
 ---
 
 ## 🔧 Tech Stack
-**Languages:** Rust · Go · Python · c .C++  
+**Languages:** Rust · Go · Python · C .C++  
 **DevOps:** Docker · Kubernetes · CI/CD  
 **Tools:** Git · GitHub · Linux Systems  
 **Other:** ML pipelines · Airflow integrations
