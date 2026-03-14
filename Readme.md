@@ -6,7 +6,7 @@ Backend Engineering • Distributed Systems • Open-source Contributor (Apache)
 ---
 
 ## 🔹 About Me
-- Software Engineering Intern (Team Lead) with production engineering experience  
+- EX Software Engineering Intern with production engineering experience  
 - Active open-source contributor in Apache ecosystem (Airflow, Grails)  
 - Proficient in **Rust, Go, Python, C++, PostgreSQL, Docker, Kubernetes, Linux**  
 - Strong CS fundamentals — DSA, OS, DBMS, networks  
