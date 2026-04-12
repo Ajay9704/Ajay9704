@@ -31,12 +31,11 @@ Backend Engineering • Distributed Systems • Open-source Contributor (Apache)
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ajay9704&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Ajay9704&show_icons=true&theme=radical&cache_seconds=1800)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Ajay9704&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay9704&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://streak-stats.demolab.com?user=Ajay9704&theme=radical&cache_seconds=1800)<br/>
 
----
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay9704&layout=compact&theme=radical&cache_seconds=1800)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
