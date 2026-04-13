@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ajay
 
-**B.Tech Computer Science — IIITDM Jabalpur (Pre-final Year)**  
+**B.Tech Computer Science(Pre-final Year)**  
 Backend Engineering • Distributed Systems • Open-source Contributor (Apache)
 
 ---
