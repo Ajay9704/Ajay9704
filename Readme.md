@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ajay
 
 **B.Tech Computer Science(Final Year)**  
-Backend Engineering • Distributed Systems • Open-source Contributor (Apache)
+ML • Backend Engineering • Open-source Contributor (Apache)
 
 ---
 
